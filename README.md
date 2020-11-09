@@ -1,3 +1,5 @@
+Note: Same as SOLUTION.md only added for easier visibility on GitHub.
+
 # Umair Fearless Project
 
 This project was created using react.js.
